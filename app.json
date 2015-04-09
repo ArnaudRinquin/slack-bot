@@ -1,0 +1,13 @@
+
+{
+  "name": "Slack bot",
+  "description": "Slack bot seed app on NodeJS",
+  "keywords": [
+    "slack",
+    "bot",
+    "node"
+  ],
+  "website": "https://github.com/ArnaudRinquin/slack-bot",
+  "repository": "https://github.com/ArnaudRinquin/slack-bot",
+  "success_url": "/"
+}
