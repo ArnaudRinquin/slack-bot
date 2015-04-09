@@ -1,0 +1,27 @@
+{
+  "name": "slack-bot",
+  "version": "0.0.0",
+  "description": "A slack bot seed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com/ArnaudRinquin/slack-bot"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "@ArnaudRinquin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArnaudRinquin/slack-bot/issues"
+  },
+  "homepage": "https://github.com/ArnaudRinquin/slack-bot",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3"
+  }
+}
