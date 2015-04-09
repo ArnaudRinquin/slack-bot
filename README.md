@@ -6,6 +6,7 @@ Written in Node.js using [expressjs](http://expressjs.com/).
 
 * `/ping` responds `OK`
 * `/echo` echoes what you send
+* `/apero` responds with `:notes: C'est l'heure de l'apéro :beers: :notes:`
 
 ## Deploy
 
