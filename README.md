@@ -7,6 +7,8 @@ Written in Node.js using [expressjs](http://expressjs.com/).
 * `/ping` responds `OK`
 * `/echo` echoes what you send
 * `/apero` responds with `:notes: C'est l'heure de l'apéro :beers: :notes:`
+* `/hodor` responds with random `GoT` hodor quotes
+* `/hodor/scan` responds with random `GoT` hodor quotes, only if the text contains hodor
 
 ## Deploy
 
