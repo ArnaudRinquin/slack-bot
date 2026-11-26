@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated.** This project is no longer maintained and is kept for reference only. Issues and pull requests are not monitored.
+
 # Slack bot seed server
 
 Written in Node.js using [expressjs](http://expressjs.com/).
